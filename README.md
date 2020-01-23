@@ -1,7 +1,7 @@
 
 
 ## About
-The Light Blog
+thelight blog - Just some nuggets.
 
 ## License
 
